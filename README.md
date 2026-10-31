@@ -92,8 +92,8 @@ program.in → [ Lexer ] → [ Parser ] → [ Codegen ] → LLVM IR → clang �
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=uGeorgeFernandez&show_icons=true&hide_border=true&bg_color=0b1f4d&title_color=ff9933&icon_color=ff9933&text_color=ffffff&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uGeorgeFernandez&layout=compact&hide_border=true&bg_color=0b1f4d&title_color=ff9933&text_color=ffffff" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uGeorgeFernandez&theme=midnight_purple" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uGeorgeFernandez&theme=midnight_purple" alt="Top languages" />
 </p>
 
 <p align="center">
